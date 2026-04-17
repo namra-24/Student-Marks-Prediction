@@ -10,8 +10,8 @@
 - 💾 Persistent Memory: Your progress is automatically saved to LocalStorage, ensuring your garden survives even after the tab is closed.
 
 ## 📸 Preview
-How to play:
-- Add a habit (e.g., "Morning Yoga").
+How to use:
+- Add a habit (e.g., "Morning Yoga", "Drink water").
 - Scroll to the current day in the habit's date bar.
 - Click the bubble to "water" your plant.
 - Every few checkmarks, your plant evolves!
