@@ -1,5 +1,5 @@
 # HABBIT HARVEST (Habbit Tracking Website)
-## Stop tracking habits in boring lists. Habbit Harvest turns your daily consistency into a living ecosystem. For every habit you complete, your plant evolves through 10 unique stages. Once it blooms, keep the flower and start your next seed.          How big can your garden grow?
+## Stop tracking habits in boring lists. Habbit Harvest turns your daily consistency into a living ecosystem. For every habit you complete, your plant evolves through 10 unique stages. Once it blooms, keep the flower and start your next seed.                                                How big can your garden grow?
 
 ## Key Features:
 - 🧬 10-Stage Biological Growth: Watch your plant evolve from a dormant seed 🌑 to a full blossom 🌺 through 10 distinct, interactive stages.
