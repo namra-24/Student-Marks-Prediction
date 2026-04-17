@@ -1,5 +1,5 @@
 # HABBIT HARVEST (Habbit Tracking Website)
-## Stop tracking habits in boring lists. Habbit Harvest turns your daily consistency into a living ecosystem. For every habit you complete, your plant evolves through 10 unique stages. Once it blooms, keep the flower and start your next seed.                                                How big can your garden grow?
+## Stop tracking habits in boring lists. Habbit Harvest turns your daily consistency into a living ecosystem. For every habit you complete, your plant evolves through 10 unique stages. Once it blooms, keep the flower and start your next seed. How big can your garden grow?
 
 ## Key Features:
 - 🧬 10-Stage Biological Growth: Watch your plant evolve from a dormant seed 🌑 to a full blossom 🌺 through 10 distinct, interactive stages.
@@ -8,3 +8,10 @@
 - 💎 Glassmorphic UI: Deep blurs, soft shadows, and vibrant gradients create a modern, immersive user experience.
 - 🎭 Smooth Animations: Features "Fade-in on Scroll" logic using the Intersection Observer API and reactive hover scaling.
 - 💾 Persistent Memory: Your progress is automatically saved to LocalStorage, ensuring your garden survives even after the tab is closed.
+
+## 📸 Preview
+- How to play:
+-- Add a habit (e.g., "Morning Yoga").
+-- Scroll to the current day in the habit's date bar.
+-- Click the bubble to "water" your plant.
+-- Every few checkmarks, your plant evolves!
